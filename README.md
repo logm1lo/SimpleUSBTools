@@ -1,6 +1,6 @@
 ![SimpleUSBTools](https://github.com/user-attachments/assets/d6642dae-2588-4d8b-b019-3e26ba7d49b7)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/logm1lo/SimpleUSBTools) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/logm1lo/SimpleUSBTools/total)
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) ![GitHub last commit](https://img.shields.io/github/last-commit/logm1lo/SimpleUSBTools) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/logm1lo/SimpleUSBTools/total)
 
 # SimpleUSBTools
 
